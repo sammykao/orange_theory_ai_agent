@@ -69,4 +69,4 @@ def main(host, port):
 
 
 
-main("localhost", 10000)
+main("0.0.0.0", 10000)
